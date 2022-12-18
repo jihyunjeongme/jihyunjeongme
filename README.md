@@ -1,7 +1,4 @@
 ### Hi there! I'm Jihyun(Brian) welcome to my GitHub. 🌱
-
-
-
 <!--
 <hr />
 
@@ -25,13 +22,13 @@
 ### About Me 🚀
 💻 I’m a **Senior Support Engineer** with a master's degree in Information Systems, Data Analysis. </br> </br>
 :writing_hand: I'm also a **technical writer** and I have published books such as [Python Data Science Statistical Learning](https://bit.ly/3vwb5MZ) and [Node.js 200 for beginner](https://bit.ly/37rSvLT)</br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
-   
- <b><i>I truly believe that technology has the power to change people's lives for the better. </i></b>
-    
+
+### Interest 🤗
+- 📊 Data Engineering, Data pipleline(Elastic Stack), Data Analysis
+- 📈 Troubleshooting, Performance improvement
+
 <br/>
 <hr />
-
 <div align="center">
   <a href="https://github.com/MuriloMarquesSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihyunjeongme&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
@@ -40,22 +37,19 @@
 
 
 
-### Interest 
-- Data Engineering, Data pipleline(Elastic Stack), Data Analysis
-- Troubleshooting, Performance improvement
 
-
-<!--
-**jihyunjeongme/jihyunjeongme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<img align="center" alt="pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/postgresql/postgresql-original-wordmark.svg">                                                              
+</div>
