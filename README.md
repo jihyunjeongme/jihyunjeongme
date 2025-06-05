@@ -20,7 +20,7 @@
 
 
 ### About Me 🚀
-💻 I’m a **Senior Support Engineer** with a master's degree in Information Systems, Data Analysis. </br> </br>
+💻 I’m a **Principal Support Engineer** with a master's degree in Information Systems, Data Analysis. </br> </br>
 :writing_hand: I'm also a **technical writer** and I have published books such as [Python Data Science Statistical Learning](https://bit.ly/3vwb5MZ) and [Node.js 200 for beginner](https://bit.ly/37rSvLT)</br></br>
 
 ### Interest 🤗
